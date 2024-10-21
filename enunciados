@@ -1,0 +1,6 @@
+1. Sacar los valores únicos que existen de titulos de album ( album_title )
+2. Sacar los nombre canciones que han sido publicadas en 2011 (release_date)
+3. Sacar las canciones que han sido publicadas en 2011 o 2018 (release_date)
+4. Sacar las canciones que han sido publicadas en 2011 entre 2018
+5. Sacar el rating medio de cada un  genero
+6. Sacar las canciones featured
